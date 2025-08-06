@@ -1,4 +1,4 @@
-# 📁 Projeto Oracle - Sistema de RH
+# 📁 Projeto Oracle – Sistema de Recursos Humanos (RH)
 
 Este projeto tem como objetivo demonstrar um sistema completo de Recursos Humanos utilizando Oracle SQL. Ele abrange desde a criação de tabelas e relações, até o uso de `TRIGGERS`, `PROCEDURES`, `VIEWS`, `PACKAGES` e simulações de testes.
 
@@ -104,3 +104,4 @@ O arquivo `testes.sql` contém:
 - 🔗 [github.com/ErickVeronezi](https://github.com/ErickVeronezi)
 
 ---
+
